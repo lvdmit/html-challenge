@@ -1,0 +1,27 @@
+body {
+    padding: 0;
+    margin: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+    line-height: 150%;
+    color: rgb(17, 89, 156);
+    background: #e2ebf3;
+}
+
+.box1 {width:220px;background: #0c5596;color: #e2ebf3}
+
+h1 {
+    font:Verdana;
+    color: rgb(17, 89, 156);
+    font-size: 36px;
+}
+.text_center {
+    text-align: center;
+}
+.capitalize {
+    text-transform: capitalize; 
+}
+
+table tr th td {
+    width: 25%;
+  }
